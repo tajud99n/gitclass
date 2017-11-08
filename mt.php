@@ -1,3 +1,4 @@
 <?php
-    echo "Code Margaret Thatcher";     
+    echo "Code Margaret Thatcher"; 
+    echo "alias Mt";    
 ?>
